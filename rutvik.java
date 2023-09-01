@@ -1,4 +1,4 @@
-public class FibonacciSeries {
+public class rutvik {
     public static void main(String[] args) {
         int n = 10; // Number of Fibonacci numbers to generate
         long[] fibonacci = new long[n];
